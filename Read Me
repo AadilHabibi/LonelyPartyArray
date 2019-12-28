@@ -1,0 +1,7 @@
+Project completed with Dr. Sean Szumlanski @UCF Fall 2019
+
+LonelyPartArray allocates and frees memory based off of a need-basis.
+
+With the C programming language, you have the ability to allocate memory and save a lot of memory with your machine, which also 
+decreases run time. This program was designed to be able to create and destroy memory based off of the input given to the program. Program
+was made with a 2D-Array to be able to hold multiple values within a certain index of the array and each cell within the array.
